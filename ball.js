@@ -1,4 +1,5 @@
-var stage;
+var stage ; 
+
 const balls = 3;
 var storage = [];
 var rightBalls = [
