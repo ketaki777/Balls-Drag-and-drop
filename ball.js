@@ -1,7 +1,6 @@
 var stage ; 
 const balls = 3;
 var storage = [];
-
 var rightBalls = [
   { x: 400, y: 100, color: "purple", minx: 340, minY: 30, maxY: 170 },
   { x: 400, y: 250, color: "red", minx: 340, minY: 195, maxY: 300 },
